@@ -1,12 +1,4 @@
 # Plugin Releases
-
-This branch contains all published plugin releases.
-
-## Quick Access
-
-- [manifest.json](./manifest.json) - Complete plugin registry with metadata
-- [zips/](./zips/) - Plugin ZIP files and per-plugin manifests
-
 ## Available Plugins
 
 | Plugin | Version | Author | License | Description |
@@ -25,7 +17,7 @@ Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitori
 
 **Downloads:**
 - [Latest Release (`2.4.69`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
-- [All Versions (2 available)](./zips/dispatcharr-exporter)
+- [All Versions (2 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/dispatcharr-exporter)
 
 **Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`b0afcfc`](https://github.com/sv-dispatcharr/Plugins/commit/b0afcfc75bfb9812f61f5d02eb6ac3f02ccf20b2)
 
