@@ -17,7 +17,7 @@ Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitori
 
 **Downloads:**
 - [Latest Release (`2.4.1`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
-- [All Versions (2 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/dispatcharr-exporter)
+- [All Versions (1 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/dispatcharr-exporter)
 
 **Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`92014c0`](https://github.com/sv-dispatcharr/Plugins/commit/92014c07f7959e2512f5cf53700d1c474bf82faf)
 
@@ -33,4 +33,4 @@ curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.
 
 ---
 
-*Last updated: Mar 27 2026, 16:27 UTC*
+*Last updated: Mar 27 2026, 16:29 UTC*
