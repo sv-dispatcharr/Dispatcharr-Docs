@@ -11,7 +11,7 @@ Want to get your plugin added to this list? Check out the [plugin repository](ht
 
 ### [Dispatcharr Exporter](https://github.com/sv-dispatcharr/Plugins/blob/releases/zips/dispatcharr-exporter/README.md)
 
-**Version:** `2.4.1` | **Author:** sethwv | **Last Updated:** Mar 27 2026, 16:27 UTC
+**Version:** `2.4.1` | **Author:** sethwv | **Last Updated:** Mar 26 2026, 18:07 UTC
 
 Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring
 
@@ -23,7 +23,7 @@ Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitori
  [Latest Release (`2.4.1`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
 - [All Versions (1 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/dispatcharr-exporter)
 
-**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`92014c0`](https://github.com/sv-dispatcharr/Plugins/commit/92014c07f7959e2512f5cf53700d1c474bf82faf)
+**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`6746a9a`](https://github.com/sv-dispatcharr/Plugins/commit/6746a9af622de4adf5cfd6b7d959594808ed5482)
 
 ---
 
@@ -37,4 +37,4 @@ curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.
 
 ---
 
-*Last updated: Mar 27 2026, 16:48 UTC*
+*Last updated: Mar 27 2026, 17:40 UTC*
