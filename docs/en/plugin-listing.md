@@ -1,0 +1,44 @@
+# Plugin Releases
+
+This branch contains all published plugin releases.
+
+## Quick Access
+
+- [manifest.json](./manifest.json) - Complete plugin registry with metadata
+- [zips/](./zips/) - Plugin ZIP files and per-plugin manifests
+
+## Available Plugins
+
+| Plugin | Version | Author | License | Description |
+|--------|---------|-------|---------|-------------|
+| [`Dispatcharr Exporter`](#dispatcharr-exporter) | `2.4.69` | sethwv | MIT | Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring |
+
+---
+
+### [Dispatcharr Exporter](https://github.com/sv-dispatcharr/Plugins/blob/releases/zips/dispatcharr-exporter/README.md)
+
+**Version:** `2.4.69` | **Author:** sethwv | **Last Updated:** Mar 27 2026, 15:08 UTC
+
+Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring
+
+**License:** [MIT](https://spdx.org/licenses/MIT.html)
+
+**Downloads:**
+- [Latest Release (`2.4.69`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
+- [All Versions (2 available)](./zips/dispatcharr-exporter)
+
+**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`b0afcfc`](https://github.com/sv-dispatcharr/Plugins/commit/b0afcfc75bfb9812f61f5d02eb6ac3f02ccf20b2)
+
+---
+
+## Using the Manifest
+
+Fetch `manifest.json` to programmatically access plugin metadata and download URLs:
+
+```bash
+curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.json
+```
+
+---
+
+*Last updated: Mar 27 2026, 15:08 UTC*
