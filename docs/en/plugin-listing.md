@@ -1,4 +1,6 @@
 # Plugin Releases
+
+Want to get your plugin added to this list? Check out the [plugin repository](https://github.com/sv-dispatcharr/Plugins/blob/main/CONTRIBUTING.md) to learn how to contribute.
 ## Available Plugins
 
 | Plugin | Version | Author | License | Description |
