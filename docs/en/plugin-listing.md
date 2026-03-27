@@ -1,12 +1,4 @@
 # Plugin Releases
-
-This branch contains all published plugin releases.
-
-## Quick Access
-
-- [manifest.json](./manifest.json) - Complete plugin registry with metadata
-- [zips/](./zips/) - Plugin ZIP files and per-plugin manifests
-
 ## Available Plugins
 
 | Plugin | Version | Author | License | Description |
