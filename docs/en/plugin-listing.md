@@ -11,23 +11,23 @@ This branch contains all published plugin releases.
 
 | Plugin | Version | Author | License | Description |
 |--------|---------|-------|---------|-------------|
-| [`Dispatcharr Exporter`](#dispatcharr-exporter) | `2.4.1` | sethwv | MIT | Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring |
+| [`Dispatcharr Exporter`](#dispatcharr-exporter) | `2.4.69` | sethwv | MIT | Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring |
 
 ---
 
 ### [Dispatcharr Exporter](https://github.com/sv-dispatcharr/Plugins/blob/releases/zips/dispatcharr-exporter/README.md)
 
-**Version:** `2.4.1` | **Author:** sethwv | **Last Updated:** Mar 26 2026, 18:07 UTC
+**Version:** `2.4.69` | **Author:** sethwv | **Last Updated:** Mar 27 2026, 15:08 UTC
 
 Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring
 
 **License:** [MIT](https://spdx.org/licenses/MIT.html)
 
 **Downloads:**
-- [Latest Release (`2.4.1`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
-- [All Versions (1 available)](./zips/dispatcharr-exporter)
+- [Latest Release (`2.4.69`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
+- [All Versions (2 available)](./zips/dispatcharr-exporter)
 
-**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`6746a9a`](https://github.com/sv-dispatcharr/Plugins/commit/6746a9af622de4adf5cfd6b7d959594808ed5482)
+**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`b0afcfc`](https://github.com/sv-dispatcharr/Plugins/commit/b0afcfc75bfb9812f61f5d02eb6ac3f02ccf20b2)
 
 ---
 
@@ -41,4 +41,4 @@ curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.
 
 ---
 
-*Last updated: Mar 27 2026, 15:04 UTC*
+*Last updated: Mar 27 2026, 15:08 UTC*
