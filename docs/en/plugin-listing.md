@@ -5,7 +5,7 @@ Want to get your plugin added to this list? Check out the [plugin repository](ht
 
 | Plugin | Version | Author | License | Description |
 |--------|---------|-------|---------|-------------|
-| [`API Gateway`](#api-gateway) | `1.5.3` | testuser14 | MIT | Exposes a REST API gateway for third-party integrations and remote management |
+| [`API Gateway`](#api-gateway) | `1.5.4` | testuser14 | MIT | Exposes a REST API gateway for third-party integrations and remote management |
 | [`Auto Restart`](#auto-restart) | `0.9.1` | testuser6 | MIT | Automatically restarts failed streams and connections with configurable retry logic |
 | [`Backup Manager`](#backup-manager) | `3.0.0` | testuser4 | GPL-3.0 | Automated backup and restore of Dispatcharr configuration, channels, and profiles |
 | [`Bandwidth Limiter`](#bandwidth-limiter) | `1.4.0` | testuser11 | Apache-2.0 | Limits total bandwidth usage per profile or globally with configurable thresholds and actions |
@@ -26,7 +26,7 @@ Want to get your plugin added to this list? Check out the [plugin repository](ht
 
 ### [API Gateway](https://github.com/sv-dispatcharr/Plugins/blob/releases/zips/api-gateway/README.md)
 
-**Version:** `1.5.3` | **Author:** testuser14 | **Last Updated:** Mar 28 2026, 20:03 UTC
+**Version:** `1.5.4` | **Author:** testuser14 | **Last Updated:** Mar 29 2026, 15:09 UTC
 
 Exposes a REST API gateway for third-party integrations and remote management
 
@@ -35,10 +35,10 @@ Exposes a REST API gateway for third-party integrations and remote management
 **Dispatcharr Compatibility:** v0.19.0+
 
 **Downloads:**
- [Latest Release (`1.5.3`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/api-gateway/api-gateway-latest.zip)
-- [All Versions (1 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/api-gateway)
+ [Latest Release (`1.5.4`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/api-gateway/api-gateway-latest.zip)
+- [All Versions (2 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/api-gateway)
 
-**Maintainers:** testuser14, testuser2 | **Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/api-gateway) | **Last Change:** [`0e40625`](https://github.com/sv-dispatcharr/Plugins/commit/0e4062534b268601d7330f0adcd63430a0bb0240)
+**Maintainers:** testuser14, testuser2 | **Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/api-gateway) | **Last Change:** [`da6c731`](https://github.com/sv-dispatcharr/Plugins/commit/da6c731667243d6a2ab3a671508416d428366b80)
 
 ---
 
@@ -322,4 +322,4 @@ curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.
 
 ---
 
-*Last updated: Mar 28 2026, 20:03 UTC*
+*Last updated: Mar 29 2026, 15:09 UTC*
