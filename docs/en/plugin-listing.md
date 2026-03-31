@@ -12,7 +12,7 @@ Want to get your plugin added to this list? Check out the [plugin repository](ht
 | [`Channel Logger`](#channel-logger) | `1.0.0` | testuser1 | MIT | Logs channel activity and stream changes to a database for historical analysis |
 | [`Channel Sorter`](#channel-sorter) | `0.2.0` | testuser13 | MIT | Automatically sorts and organizes channels by category, name, or custom rules |
 | [`Discord Notifier`](#discord-notifier) | `1.0.5` | testuser5 | MIT | Sends Discord webhook notifications for stream events, errors, and status changes |
-| [`Dispatcharr Exporter`](#dispatcharr-exporter) | `2.4.1` | sethwv | MIT | Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring |
+| [`Dispatcharr Exporter`](#dispatcharr-exporter) | `3.0.0` | sethwv | MIT | Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring |
 | [`EPG Sync`](#epg-sync) | `2.1.0` | testuser2 | MIT | Synchronizes EPG data from multiple sources and merges guide information |
 | [`Grafana Dashboard`](#grafana-dashboard) | `1.1.0` | testuser8 | MIT | Provides pre-built Grafana dashboard JSON and a data-source proxy for visualizing Dispatcharr metrics |
 | [`M3U Validator`](#m3u-validator) | `1.2.0` | testuser7 | MIT | Validates M3U playlists and reports broken or duplicate entries with detailed diagnostics |
@@ -36,7 +36,7 @@ Exposes a REST API gateway for third-party integrations and remote management
 
 **Downloads:**
  [Latest Release (`1.5.4`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/api-gateway/api-gateway-latest.zip)
-- [All Versions (2 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/api-gateway)
+- [All Versions (1 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/api-gateway)
 
 **Maintainers:** testuser14, testuser2 | **Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/api-gateway) | **Last Change:** [`da6c731`](https://github.com/sv-dispatcharr/Plugins/commit/da6c731667243d6a2ab3a671508416d428366b80)
 
@@ -152,7 +152,7 @@ Sends Discord webhook notifications for stream events, errors, and status change
 
 ### [Dispatcharr Exporter](https://github.com/sv-dispatcharr/Plugins/blob/releases/zips/dispatcharr-exporter/README.md)
 
-**Version:** `2.4.1` | **Author:** sethwv | **Last Updated:** Mar 26 2026, 18:07 UTC
+**Version:** `3.0.0` | **Author:** sethwv | **Last Updated:** Mar 31 2026, 18:39 UTC
 
 Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitoring
 
@@ -161,10 +161,10 @@ Expose Dispatcharr metrics in Prometheus exporter-compatible format for monitori
 **Dispatcharr Compatibility:** v0.19.0+
 
 **Downloads:**
- [Latest Release (`2.4.1`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
-- [All Versions (1 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/dispatcharr-exporter)
+ [Latest Release (`3.0.0`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/dispatcharr-exporter/dispatcharr-exporter-latest.zip)
+- [All Versions (2 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/dispatcharr-exporter)
 
-**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`6746a9a`](https://github.com/sv-dispatcharr/Plugins/commit/6746a9af622de4adf5cfd6b7d959594808ed5482)
+**Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/dispatcharr-exporter) | **Last Change:** [`b956a42`](https://github.com/sv-dispatcharr/Plugins/commit/b956a42336118384a67c923709bd11ce84371e64)
 
 ---
 
@@ -322,4 +322,4 @@ curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.
 
 ---
 
-*Last updated: Mar 29 2026, 15:09 UTC*
+*Last updated: Mar 31 2026, 18:39 UTC*
