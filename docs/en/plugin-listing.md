@@ -36,7 +36,7 @@ Exposes a REST API gateway for third-party integrations and remote management
 
 **Downloads:**
  [Latest Release (`1.5.4`)](https://github.com/sv-dispatcharr/Plugins/raw/releases/zips/api-gateway/api-gateway-latest.zip)
-- [All Versions (2 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/api-gateway)
+- [All Versions (1 available)](https://github.com/sv-dispatcharr/Plugins/tree/releases/zips/api-gateway)
 
 **Maintainers:** testuser14, testuser2 | **Source:** [Browse](https://github.com/sv-dispatcharr/Plugins/tree/main/plugins/api-gateway) | **Last Change:** [`da6c731`](https://github.com/sv-dispatcharr/Plugins/commit/da6c731667243d6a2ab3a671508416d428366b80)
 
@@ -322,4 +322,4 @@ curl https://raw.githubusercontent.com/sv-dispatcharr/Plugins/releases/manifest.
 
 ---
 
-*Last updated: Mar 29 2026, 15:09 UTC*
+*Last updated: Mar 31 2026, 17:56 UTC*
