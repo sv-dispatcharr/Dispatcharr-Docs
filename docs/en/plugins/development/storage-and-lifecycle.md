@@ -21,7 +21,11 @@ Managed plugins use their repository slug as the data identity. If a repository 
     cache_file.write_text('{"last_sync": "2026-10-22"}')
     ```
 
-Writing outside the code and data directories requires the appropriate capability. See [Plugin manifest and capabilities](capabilities-and-security.md).
+Use `context["data_dir"]` instead of hardcoding a path such as `/data/plugin_data/<plugin-id>`. Pass the data directory to background work so it uses the same location as interactive actions. When moving an existing plugin to `data_dir`, migrate its old state without overwriting state already stored in the new location.
+
+Keep temporary files in `data_dir` too. For example, pass `dir=context["data_dir"]` to `tempfile.NamedTemporaryFile` and clean up the file when it is no longer needed.
+
+Writes inside the plugin's data directory do not require `filesystem_write`. Declare that capability only when the plugin needs to write outside its code and data directories, and remove it from both the manifest and the plugin class if it is no longer needed. Test actions and background work without the capability after making the change. See [Plugin manifest and capabilities](capabilities-and-security.md).
 
 ## Watched directories
 

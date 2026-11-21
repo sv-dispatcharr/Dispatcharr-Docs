@@ -33,6 +33,8 @@ You can search, filter, and sort available plugins, then install compatible plug
 
 After installation, you can choose **Enable now** when offered. If the plugin requests capabilities, review and approve them separately before enabling it. If enabling fails, the installation dialog remains open so you can retry.
 
+When a repository installation replaces an already enabled plugin, including one previously imported or managed by another repository, any capabilities not already approved require confirmation before the replacement. Declining disables the existing plugin and leaves its files unchanged.
+
 ## Develop plugins
 
 Use the plugin-development documentation to build, test, package, and publish a Dispatcharr plugin.

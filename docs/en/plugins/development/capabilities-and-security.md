@@ -58,6 +58,8 @@ Declare only the capabilities your plugin needs. A capability is a disclosure to
 
 Before a plugin with new effective capabilities can be enabled, an administrator must acknowledge them in the Dispatcharr interface. A managed-plugin update that adds capabilities requires acknowledgement again.
 
+This also applies when a repository installation replaces an enabled plugin previously imported or managed by another repository. The administrator must approve any capabilities not already acknowledged before the replacement. Declining disables the existing plugin without replacing its files.
+
 Acknowledgement is an administrative approval step. It is not the same as runtime enforcement. Manifest version 2 or later runtime checks use the capabilities declared by the plugin, not the acknowledgement record.
 
 An action declared with `"async": true` automatically requests `background_tasks`, even when that capability is not explicitly listed.
